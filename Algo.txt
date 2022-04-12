@@ -1,4 +1,0 @@
-1. Order Pizza
-2. Wait for pizza to be delivered
-3. Consume entire pizza
-4. Profit!
